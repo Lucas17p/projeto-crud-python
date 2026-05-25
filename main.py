@@ -1,5 +1,6 @@
-from models.produtosSistema import ProdutosSistema
+import database
 from models.menu import menu
+
 
 
 if __name__ == "__main__":
